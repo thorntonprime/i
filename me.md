@@ -1,17 +1,5 @@
-䷓ pay attention
-  ䷽ unafraid and curious in the little things
-  ䷭ that grow, that strive
 
-䷏ be astonished
-    as a child before a troop of elephants
-  ䷎ be humbled
-    as one who faces the Game for the first time
+![Six Planets in Perfect Harmony](https://gdb.voanews.com/01000000-c0a8-0242-129a-08dbf811e6b1_cx0_cy7_cw0_w1023_r1_s.jpg)
 
-䷒ tell about it
-  ䷽ unafraid and curious in the little things
-  ䷬ weaving these things into the fabric of your being
-  
-  and
-䷛ to the furthest boundaries of existence
----
-how could i knot?
+
+
