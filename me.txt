@@ -1,11 +1,11 @@
  6  ☴
   6b6 ䷼>䷸ y(63>66) w(61>57/58)
-
     ䷼ y63 w61
       [siu] sincerity
       [huang] innermost sincerity
       [karcher] centering and connecting to the spirits
 
+---
 two things that prevent isomorphism:
 
   ䷼ those that are non-injective
@@ -15,8 +15,19 @@ two things that prevent isomorphism:
 
 and any morphism that is both monic (injective) and epic (surjective)
 is isomorphic
+---
+this morning
+i'm reflecting on some wise words on awareness
+by Chuck Hamilton
+and a reflecting on a shared reflection with stephanie and susan
+in which susan quoted blake:
 
-
+  [9bccecdb]
+  tyger tyger, burning bright,
+  in the forests of the night;
+  what immortal hand or eye,
+  could frame thy fearful symmetry?
+---
     ䷸䷹ y66 y33 
       ䷸ w57
         [siu] gentle penetration
