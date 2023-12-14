@@ -16,6 +16,7 @@ two things that prevent isomorphism:
 and any morphism that is both monic (injective) and epic (surjective)
 is isomorphic
 
+
     ䷸䷹ y66 y33 
       ䷸ w57
         [siu] gentle penetration
