@@ -1,30 +1,25 @@
  6  ☴
   6b6 ䷼>䷸ y(63>66) w(61>57/58)
+
     ䷼ y63 w61
       [siu] sincerity
       [huang] innermost sincerity
       [karcher] centering and connecting to the spirits
-      [oliver] tell about it
+
+two things that prevent isomorphism:
+
+  ䷼ those that abstract -- multiple values collapse into a single value, the domain is larger than the co-domain
+  ䷽ those that model -- where the domain (abnd subsequent image) is smaller than the co-domain
+
     ䷸䷹ y66 y33 
       ䷸ w57
         [siu] gentle penetration
         [huang] proceeding humbly
         [karcher] subtle penetration / spreading the fates
-        [oliver] pay attention
       ䷹ w58
         [siu] joy
         [huang] joyful
         [karcher] open / expression
-        [oliver] be astonished
+
 b6  ☱>☴
 
-  [oliver]
-    after the rain, i went back into the field of sunflowers.
-    it was cool, and i was anything but drowsy.
-    i walked slowly, and listened
-
-  [thompson twins]
-    but just like the rain
-    i'll be always falling, yeah
-
-    only to rise and fall again
