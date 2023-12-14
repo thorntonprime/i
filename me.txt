@@ -13,6 +13,9 @@ two things that prevent isomorphism:
   ䷽ those that are non-surjective
     those that model -- where the domain (abnd subsequent image) is smaller than the co-domain
 
+and any function that is both injective and surjective
+is isomorphic
+
     ䷸䷹ y66 y33 
       ䷸ w57
         [siu] gentle penetration
