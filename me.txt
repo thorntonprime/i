@@ -8,8 +8,10 @@
 
 two things that prevent isomorphism:
 
-  ䷼ those that abstract -- multiple values collapse into a single value, the domain is larger than the co-domain
-  ䷽ those that model -- where the domain (abnd subsequent image) is smaller than the co-domain
+  ䷼ those that are non-injective
+    those that abstract -- multiple values collapse into a single value, the domain is larger than the co-domain
+  ䷽ those that are non-surjective
+    those that model -- where the domain (abnd subsequent image) is smaller than the co-domain
 
     ䷸䷹ y66 y33 
       ䷸ w57
