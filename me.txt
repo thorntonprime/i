@@ -1,8 +1,7 @@
 a journal
 of game scores
 and other random thoughts
-
-hey,
+---
 if an algorithm can pick something for me
 that i didn't know i needed
 does it mean it knows me better
