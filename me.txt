@@ -1,68 +1,69 @@
- 7  ☰
-  77  ䷀   y77 w1
-    [siu] creativity
-    [huang] initiating
-    [lynn] pure yang
-    [karcher] inspiring force / dragon
- 7  ☰
-  7c6 ䷠>䷫ y(74>76) w(33/13>44/43)
-    ䷠䷡ y74 y17
-      ䷠ w33
-        [siu] withdrawl
-        [huang] withdrawl
-        [lynn] withdrawl
-        [karcher] retiring / young pig
-      ䷡ w34
-        [siu] great vigor
-        [huang] great strength
-        [lynn] great strength
-        [karcher] great invigorating strength
-    ䷫䷪ y76 y37
-      ䷫ w44
-        [siu] infiltration by inferior men
-        [huang] encountering
-        [lynn] encounter
-        [karcher] coupling / royal bride
-      ䷪ w43
-        [siu] breakthrough
-        [huang] eliminating
-        [lynn] resolution
-        [karcher] deciding and parting
-c6  ☶>☴
-  c66 ䷑>䷸ y(46>66) w(18/17>57/58)
-    ䷑䷐ y46 y31
-      ䷸ w18
-        [siu] arresting of decay
-        [huang] remedying
-        [karcher] corruption and pestilence / renovating
-        [lynn] ills to be cured
-      ䷐ w17
-        [siu] acquiring followers
-        [huang] following
-        [karcher] following
-        [lynn] following
-    ䷸䷹ y66 y33 
-      ䷸ w57
-        [siu] gentle penetration
-        [huang] proceeding humbly
-        [karcher] subtle penetration / spreading the fates
-      ䷹ w58
-        [siu] joy
-        [huang] joyful
-        [karcher] open / expression
- 6  ☴
-  6b6 ䷼>䷸ y(63>66) w(61>57/58)
-    ䷼ y63 w61
-      [siu] sincerity
-      [huang] innermost sincerity
-      [karcher] centering and connecting to the spirits
-    ䷸䷹ y66 y33 
-      ䷸ w57
-        [siu] gentle penetration
-        [huang] proceeding humbly
-        [karcher] subtle penetration / spreading the fates
-      ䷹ w58
-        [siu] joy
-        [huang] joyful
-        [karcher] open / expression
-b6  ☱>☴
+   
+☰ 7
+  ䷀ 77 y77 w1
+      [siu] creativity
+      [huang] initiating
+      [lynn] pure yang
+      [karcher] inspiring force / dragon
+☰ 7
+  ䷠>䷫ 7c6 y(74>76) w(33/13>44/43)
+    ䷠䷡  y74 y17
+      ䷠  w33
+          [siu] withdrawl
+          [huang] withdrawl
+          [lynn] withdrawl
+          [karcher] retiring / young pig
+      ䷡  w34
+          [siu] great vigor
+          [huang] great strength
+          [lynn] great strength
+          [karcher] great invigorating strength
+    ䷫䷪  y76 y37
+      ䷫  w44
+          [siu] infiltration by inferior men
+          [huang] encountering
+          [lynn] encounter
+          [karcher] coupling / royal bride
+      ䷪  w43
+          [siu] breakthrough
+          [huang] eliminating
+          [lynn] resolution
+          [karcher] deciding and parting
+☶>☴ c6
+  ䷑>䷸ c66 y(46>66) w(18/17>57/58)
+    ䷑䷐  y46 y31
+      ䷸  w18
+          [siu] arresting of decay
+          [huang] remedying
+          [karcher] corruption and pestilence / renovating
+          [lynn] ills to be cured
+      ䷐  w17
+          [siu] acquiring followers
+          [huang] following
+          [karcher] following
+          [lynn] following
+    ䷸䷹  y66 y33 
+      ䷸  w57
+          [siu] gentle penetration
+          [huang] proceeding humbly
+          [karcher] subtle penetration / spreading the fates
+      ䷹  w58
+          [siu] joy
+          [huang] joyful
+          [karcher] open / expression
+☴ 6
+  ䷼>䷸ 6b6 y(63>66) w(61>57/58)
+    ䷼  y63 w61
+        [siu] sincerity
+        [huang] innermost sincerity
+        [karcher] centering and connecting to the spirits
+    ䷸䷹  y66 y33 
+      ䷸  w57
+          [siu] gentle penetration
+          [huang] proceeding humbly
+          [karcher] subtle penetration / spreading the fates
+      ䷹  w58
+          [siu] joy
+          [huang] joyful
+          [karcher] open / expression
+☱>☴ b6
