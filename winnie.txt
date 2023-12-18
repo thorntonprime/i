@@ -9,7 +9,6 @@ Credits: Greg Weeks, Mary Meehan, Iona Vaughan, David T. Jones and the online Di
 URL: https://www.gutenberg.org/cache/epub/67098/pg67098.txt
 pov: winnie
 ---
-
 now
 i am
 
@@ -113,11 +112,26 @@ and that being so
 we shouldn't have to climb up
 all these stairs!
 
-He was getting rather tired by this time, so that is why he sang a
-Complaining Song. He was nearly there now, and if he just stood on that
+  he is getting
+  rather tired by this time
+
+  so that is why
+  he sings a Complaining Song
+
+[fragment lost]
+
+  he is nearly there now
+  and if he just stands
+
+  on that
 branch ...
 
-_Crack!_
+                CRACK!
+
+
+
+
+
 
 "Oh, help!" said Pooh, as he dropped ten feet on the branch below him.
 
