@@ -1,0 +1,29 @@
+# temporary until the environment is ready
+bin
+lib
+lib64
+src
+
+.snap
+tmp
+
+**/.DS_Store
+**/.Trashes
+**/.fseventsd
+**/.Spotlight-V100
+**/.DocumentRevisions-V100
+**/.TemporaryItems
+**/.Trash*
+**/.*.swo
+
+pyvenv.cfg
+.lfs
+.ztr-directory
+*.swp
+.ipynb_checkpoints
+
+# Cache Files
+__pycache__/
+*.py[cod]
+.Python
+
